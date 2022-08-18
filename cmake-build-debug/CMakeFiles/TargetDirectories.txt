@@ -1,0 +1,3 @@
+D:/barname nevisi/clion/faz2Project/cmake-build-debug/CMakeFiles/faz2Project.dir
+D:/barname nevisi/clion/faz2Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/barname nevisi/clion/faz2Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
